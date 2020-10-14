@@ -1,0 +1,113 @@
+body{
+	font-family: "Inconsolata","Times New Roman", serif;
+	background-color: #70ab72;
+	font-size: 120%;
+	line-height: 1.5;
+}
+main h1{
+	text-align: center;
+	background-color: #351844;
+	color: #black;
+	padding: -10px;
+	border-bottom: 5px solid black;
+	font-size: 50px;}
+	
+	main{
+		float: left;
+	width: 80%;
+		font-size: 110%;
+	}
+
+
+h1, h2
+{
+	font-family: "Raleway","Arial", sans-serif;
+}
+h1{text-transform: uppercase;
+margin: -10px;
+padding: 8.5px;
+}
+p{
+	text-align: justify;
+	margin: 20px 0;
+}
+
+ nav ul {
+	
+	margin:5%;
+	padding: 1%;
+    margin-bottom: 50px;
+    margin-top: 5px;
+    text-align: center;
+	font-family: "Times New Roman" , serif;
+	color:#351844;
+
+ }
+ nav li{
+	list-style:none ;
+	display: inline-block;
+}
+blockquote, footer{
+	padding: 10px;
+
+}
+
+blockquote {
+ background-color: #D9E5E3;
+ border: 10px solid #7bd3c1;
+ border-radius: 5px 10px;
+clear: both;
+}
+
+footer {
+ background-color: gray;
+ color: #black;
+ clear: both;
+}
+
+h2{
+	font-family: "Peddana", serif ;
+	font-size: 30px;
+}
+
+main section{
+	width: 720px;
+	margin: auto;
+}
+cite{
+	font-style: italic;
+ float: right;
+
+}
+.minha-foto{
+	float: right;
+	width: 20%;
+	box-sizing: border-box;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+	position: fixed;
+	top: 0;
+	right: 0;
+	float: right;
+   }
+   .rodape-pagina{
+	background-color: #000;
+ color: #F2FFFC;
+ clear: both;
+ position: relative;
+ bottom: 0;
+ left: 0;
+
+
+   }
+   
+
+
+
+
+
+
+
+
+
+
